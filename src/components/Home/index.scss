@@ -1,0 +1,10 @@
+.banners {
+  width: 75vw;
+  margin: 10px auto;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 992px) {
+  .banners {
+    width: 100%;
+  }
+}
